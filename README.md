@@ -10,7 +10,7 @@ This course will provide an introduction to the field of big data, with a focus 
 
 Why focus on network data? Over the past century, network studies have had significant impact in disciplines as varied as mathematics, sociology, physics, biology, computer science or quantitative geography, giving birth to Network Science as a field of itself. With the recent rise of social networks in the last decade, their use has now become widespread in the digital world. Here we will provide an introduction to the field of Network Science,  from the theoretical foundations (generating, analysing, perturbing networks) to the practical hands-on part (analysis and visualisation of a real-world networks). 
 
-# Network topics will cover:
+# Network topics will cover
 a. How to construct networks from real data?
 b. How to analyze networks? (centrality measures, community detection, statistical analyses etc.)
 c. How to visualise networks? 
