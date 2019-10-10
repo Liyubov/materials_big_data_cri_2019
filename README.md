@@ -21,16 +21,15 @@ f. How to represent more complex network data? Multilayer, multiplex networks.
 Students will select, analyse and present a network of their choice as part of a personal project for the course. They will also choose an advanced topic in network science & big data for which they will make a presentation in a reverse classroom setting. They will in particular contribute to a wikipedia page about that topic.
 
 
-# Code 
 
 # Data 
 (In progress)
 
-#Resources 
-Introductory interactive textbook by A-L Barabasi: http://networksciencebook.com/ 
+# Resources 
+1. Introductory interactive textbook by A-L Barabasi: http://networksciencebook.com/ 
 Chapter 2 for network metrics
 Chapter 9 for community detection
-An introduction to network visualisation: 
+2. An introduction to network visualisation: 
 BASIC 
 Gephi: http://www.martingrandjean.ch/gephi-introduction/
 INTERMEDIATE
