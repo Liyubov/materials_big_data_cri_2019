@@ -2,6 +2,8 @@
 
 Authors: Marc, Loic, Liubov, Anirudh, Felix
 
+Repository for the whole course is here https://github.com/Big-data-course-CRI/materials_big_data_cri_2019
+
 Big data course which we are making at CRI cri-paris.org for Fall 2019.
 
 # Course description on network theory
@@ -23,7 +25,9 @@ Students will select, analyse and present a network of their choice as part of a
 
 
 # Data 
-(In progress)
+Network databases Index of Complex Networks (ICON): https://icon.colorado.edu/ 5,000+ networks Network repository: http://networkrepository.com/ offers a lot of visualisation tools already in the website
+
+On Github: Deezer Social Networks, Facebook Page-Page Networks, Wikipedia Article Networks: https://github.com/benedekrozemberczki/datasets A Repository of Benchmark Graph Datasets for Graph Classification (31 Graph Datasets In Total https://github.com/shiruipan/graph_datasets Repository of Network repositories: https://github.com/ComplexNetTSP/ComplexNetWiki/wiki/Networks-datasets
 
 # Resources 
 1. Introductory interactive textbook by A-L Barabasi: http://networksciencebook.com/ 
