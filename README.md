@@ -22,7 +22,7 @@ Students will select, analyse and present a network of their choice as part of a
 
 
 
-# Data 
+# Data on network theory
 
 Network databases
 Index of Complex Networks (ICON): https://icon.colorado.edu/  5,000+ networks
@@ -33,7 +33,7 @@ Deezer Social Networks, Facebook Page-Page Networks, Wikipedia Article Networks:
 A Repository of Benchmark Graph Datasets for Graph Classification (31 Graph Datasets In Total https://github.com/shiruipan/graph_datasets
 Repository of Network repositories: https://github.com/ComplexNetTSP/ComplexNetWiki/wiki/Networks-datasets
 
-# Resources 
+# Resources on network theory
 1. Introductory interactive textbook by A-L Barabasi: http://networksciencebook.com/ 
 Chapter 2 for network metrics
 Chapter 9 for community detection
