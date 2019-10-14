@@ -2,9 +2,15 @@
 
 Authors: Marc & Liubov (network theory) | Anirudh & Felix (Big data in mental health) | Loic (data management)
 
+
 **Let us know more about you in this [form](https://forms.gle/qzUibhZVm7GEa5rP9)!**
 
 This is the repository of the [CRI](https://cri-paris.org/) Digital Master "Big data" course for Fall 2019.
+
+Repository for the whole course is here https://github.com/Big-data-course-CRI/materials_big_data_cri_2019
+
+Big data course which we are making at CRI cri-paris.org for Fall 2019.
+
 
 # Course description on network theory
 This course will provide an introduction to the field of big data, with a focus on network data and data for mental health. Topics will cover data project management, infrastructure of big data, data analysis and visualisation, and mental health data. The course will be divided into a big data and a network data parts.
@@ -100,6 +106,28 @@ https://drive.google.com/drive/u/1/folders/1RXXtMR1DMaWSm22lyqxwSDx_H07kRElt
 
 
 
+
 # How To Use Github 
 https://guides.github.com/activities/hello-world/ 
 Executing notebooks from github https://mybinder.org/ 
+
+# Data 
+Network databases Index of Complex Networks (ICON): https://icon.colorado.edu/ 5,000+ networks Network repository: http://networkrepository.com/ offers a lot of visualisation tools already in the website
+
+On Github: Deezer Social Networks, Facebook Page-Page Networks, Wikipedia Article Networks: https://github.com/benedekrozemberczki/datasets A Repository of Benchmark Graph Datasets for Graph Classification (31 Graph Datasets In Total https://github.com/shiruipan/graph_datasets Repository of Network repositories: https://github.com/ComplexNetTSP/ComplexNetWiki/wiki/Networks-datasets
+
+# Resources 
+1. Introductory interactive textbook by A-L Barabasi: http://networksciencebook.com/ 
+Chapter 2 for network metrics
+Chapter 9 for community detection
+2. An introduction to network visualisation: 
+BASIC 
+Gephi: http://www.martingrandjean.ch/gephi-introduction/
+INTERMEDIATE
+Cytoscape:  https://github.com/cytoscape/cytoscape-tutorials/wiki
+ADVANCED
+R: https://kateto.net/network-visualization 
+Python: https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/
+Cytoscape.js: https://blog.js.cytoscape.org/2016/05/24/getting-started/
+D3.js: https://www.d3-graph-gallery.com/network
+
